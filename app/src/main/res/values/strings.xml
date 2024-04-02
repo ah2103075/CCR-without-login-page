@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CCR</string>
+    <string name="book_now">Book Now</string>
+    <string name="text1">Ruet Central Field</string>
+    <string name="text2">Time Scheduling for Field Booking</string>
+    <string name="text3">Select time</string>
+    <string-array name="time_slots_array">
+        <item>8.00am to 10.00am</item>
+        <item>10.00am to 12.00pm</item>
+        <item>12.00pm to 2.00pm</item>
+        <item>2.00pm to 4.00pm</item>
+        <item>4.00pm to 6.00pm</item>
+    </string-array>
+</resources>
